@@ -1,5 +1,5 @@
 # DS442 Project 1
-# Nick Malloy
+# Nick Malloy and Aaryan Bavishi
 # September 8 2023
 
 with open('input') as f:                                # reading in current state of puzzle
